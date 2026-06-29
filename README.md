@@ -12,4 +12,3 @@ Designed according to **Clean Architecture** principles, the project integrates 
 - 🎨 **Modern Interface:** A responsive and sleek user experience designed with React and Tailwind CSS, featuring drag-and-drop support.
 - 🧪 **Testable Architecture:** Modular and reliable backend code supported by Pytest.
 
-Translated with DeepL.com (free version)
