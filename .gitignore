@@ -43,3 +43,5 @@ artifacts/
 # OS files
 .DS_Store
 Thumbs.db
+
+backend/ml/datasets
